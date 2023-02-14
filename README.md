@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 <h3>🔭 Currently working on:</h3>
 
 - <a href="https://github.com/Phil0xFF/homebridge-lupus-security">Homebridge Plugin for the Lupusec XT2 alarm system</a>
-- <a href="https://github.com/Phil0xFF/capacitor-openstreetmap">Capacitor implementation of Openstreetmaps</a>
 - <a href="https://github.com/Phil0xFF/capacitor-jailbreak-root-detection">Capacitor Plugin to detect jailbroken or rooted devices</a>
 
 <h3>📫 How to reach me:</h3>
 
-- E-Mail
+- <a href="mailto:hello@philmiletic.com">E-Mail</a>
 - Twitter
