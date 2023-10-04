@@ -4,10 +4,6 @@
 ---
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/18264611?v=4" alt="Phil's Profile Picture" width="128px" height="128px" style="border-radius: 50%" />
-</p>
-
-<p align="center">
   <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/phil-miletic-4a6b421b0/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555" alt="LinkedIn"></a>
 </p>
