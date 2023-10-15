@@ -15,7 +15,7 @@
 👨‍👩‍👦 [**ZwergenNetwork**](#)  
 Revolutionizing early education by bridging communication between parents and kindergarten teachers.
 
-🍻 [**Getnrk**](#)  
+🍻 [**Getrnk**](#)  
 Your go-to social network for sharing drinks, moments, and connecting with friends.
 
 🛍️ [**Collect&Claim**](#)  
