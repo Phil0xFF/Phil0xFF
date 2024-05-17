@@ -1,10 +1,9 @@
-<h1 align="center">Phil: Architect of Digital Solutions 🌐</h1>
-<h3 align="center">Specialist in Hybrid Apps | Symfony Advocate | Vue.js & NodeJS Pro</h3>
+<h1 align="center">Phil 🌐</h1>
+<h3 align="center">Software developer, Hybrid app specialist.</h3>
 
 ---
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_HANDLE"><img src="https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?label=Twitter&style=social" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/phil-miletic-4a6b421b0/"><img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=flat&logo=linkedin&colorB=555" alt="LinkedIn"></a>
 </p>
 
@@ -35,8 +34,7 @@ Safeguard your mobile applications by detecting and restricting access on compro
 
 ### 📫 Contact Information
 
-- 💌 [Email me](mailto:hello@philmiletic.com)
-- 🐦 [Twitter](https://twitter.com/YOUR_TWITTER_HANDLE)
+- 💌 [Email me](mailto:phil.miletic@b-it-projects.de)
 - 💼 [LinkedIn](https://www.linkedin.com/in/phil-miletic-4a6b421b0/)
 
 ---
