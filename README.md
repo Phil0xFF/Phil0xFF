@@ -24,7 +24,7 @@ Empowering local businesses through a digitized stamp loyalty program.
 
 ### 🎨 Side Projects
 
-🍔 [**OpenCalc - Open Source Ionic Calorie Tracker**](http://github.com/B-IT-Projects-GmbH/open-calc/commits/main/)
+🍔 [**OpenCalc - Open Source Ionic Calorie Tracker**](http://github.com/B-IT-Projects-GmbH/open-calc/commits/main/)  
 An Open Source Ionic App that helps the user track their calories without any paid subscriptions.
 
 🏠 [**Homebridge Plugin for Lupusec XT2 Alarm System**](https://github.com/Phil0xFF/homebridge-lupus-security)  
